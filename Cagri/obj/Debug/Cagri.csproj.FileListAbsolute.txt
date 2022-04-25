@@ -1,0 +1,14 @@
+D:\Code\BMG\BMG\Cagri\bin\Debug\Cagri.exe.config
+D:\Code\BMG\BMG\Cagri\bin\Debug\Cagri.exe
+D:\Code\BMG\BMG\Cagri\bin\Debug\Cagri.pdb
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.csproj.AssemblyReference.cache
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.csproj.SuggestedBindingRedirects.cache
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.Form1.resources
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.Properties.Resources.resources
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.csproj.GenerateResource.cache
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.csproj.CoreCompileInputs.cache
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.exe
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.pdb
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.Gorunum.MusteriFormu.resources
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.Gorunum.MusteriTemsilcisiFormu.resources
+D:\Code\BMG\BMG\Cagri\obj\Debug\Cagri.Gorunum.SekreterFormu.resources
